@@ -1,0 +1,4 @@
+@import ¨variables.css¨
+
+html{
+	background-color: var(--black);
